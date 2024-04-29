@@ -1,14 +1,13 @@
 ### Hi there 👋, I'm Abdul Hannan
-####  I am a data analyst
-![ I am a data analyst]
-(https://res.cloudinary.com/grohealth/image/upload/c_fill,f_auto,fl_lossy,h_650,q_auto,w_1085/v1581695681/DCUK/Content/causes-of-diabetes.png)
+#### I am a data analyst
+![I am a data analyst](https://media.licdn.com/dms/image/D5616AQHf5uNDh4uEeQ/profile-displaybackgroundimage-shrink_350_1400/0/1683787393330?e=1720051200&v=beta&t=t-b7o2HLB0ysG9TMwQLccdvBY3UPG-4MOWbQZ0Y4-js)
 
-I am a data analyst with extensive experience in statistical analysis and data visualization, specializing in the tech industry. I have utilized Python and R.
+I am a data analyst with extensive statistical analysis and visualization experience. I have utilized Python and R. I'm a graphic designer also.
 
-Skills: Python / R  /Excel 
+Skills: Python / RR /Excel/ Adobe Photoshop / Adobe Illustrator
 
-- 🔭 I’m currently working as a Research Assistant 
-- 🌱 I’m currently learning Python and R 
+- 🔭 I’m currently working at an institute as a Research Assistant  
+- 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on GitHub 
 
 
@@ -18,10 +17,9 @@ Skills: Python / R  /Excel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannan06)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hannan06&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/hannan06)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hannan06&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hannan06)  
+
 
 
