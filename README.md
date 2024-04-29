@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Abdul Hannan
 ####  I am a data analyst
-![ I am a data analyst]([(https://media.licdn.com/dms/image/D5616AQHf5uNDh4uEeQ/profile-displaybackgroundimage-shrink_350_1400/0/1683787393330?e=1720051200&v=beta&t=t-b7o2HLB0ysG9TMwQLccdvBY3UPG-4MOWbQZ0Y4-js))]
+![ I am a data analyst]
+(https://res.cloudinary.com/grohealth/image/upload/c_fill,f_auto,fl_lossy,h_650,q_auto,w_1085/v1581695681/DCUK/Content/causes-of-diabetes.png)
 
 I am a data analyst with extensive experience in statistical analysis and data visualization, specializing in the tech industry. I have utilized Python and R.
 
